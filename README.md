@@ -6,3 +6,5 @@ https://sethrobertson.github.io/GitBestPractices/
 [How we use git at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/use-git-microsoft)
 ## Helpful sites
 [On C++ optimization and assembly](https://www.agner.org/optimize)
+## CMake
+CMake Cheatsheet (https://github.com/mortennobel/CMake-Cheatsheet)
