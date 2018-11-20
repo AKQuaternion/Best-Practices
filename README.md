@@ -7,4 +7,4 @@ https://sethrobertson.github.io/GitBestPractices/
 ## Helpful sites
 [On C++ optimization and assembly](https://www.agner.org/optimize)
 ## CMake
-CMake Cheatsheet (https://github.com/mortennobel/CMake-Cheatsheet)
+[CMake Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)
